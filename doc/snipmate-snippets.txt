@@ -1,0 +1,2 @@
+Collection of snippets, in snipmate format, and snippet helper functions.
+Originally taken from many sources around the internet.
